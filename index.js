@@ -27,7 +27,7 @@ const puppeteer = require('puppeteer');
   await page.waitForNavigation();
 
 
-  // await page.click('#signIn');
+  await page.click('.btn.btn.success.bet.font.family.title.ng.star.inserted');
      
   
   // await browser.close();
